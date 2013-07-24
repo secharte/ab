@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jade.jar"/>
+	<classpathentry kind="lib" path="jadeTools.jar"/>
+	<classpathentry kind="lib" path="saci.jar"/>
+	<classpathentry kind="lib" path="commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="http.jar"/>
+	<classpathentry kind="lib" path="ErrorList.jar"/>
+	<classpathentry kind="lib" path="SideKick.jar"/>
+	<classpathentry kind="lib" path="BufferTabs.jar"/>
+	<classpathentry kind="lib" path="jason-jedit-plugin.jar"/>
+	<classpathentry kind="lib" path="jedit.jar"/>
+	<classpathentry kind="output" path="bin/"/>
+</classpath>
